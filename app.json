@@ -1,0 +1,1 @@
+{"expo":{"name":"Foodie","slug":"foodie-app","version":"1.0.0","orientation":"portrait","platforms":["ios","android","web"],"android":{"package":"com.sajjad.foodie","versionCode":1},"web":{"bundler":"metro"}}}
